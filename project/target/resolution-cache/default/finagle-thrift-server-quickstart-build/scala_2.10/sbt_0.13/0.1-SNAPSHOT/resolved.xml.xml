@@ -4,7 +4,7 @@
 		module="finagle-thrift-server-quickstart-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20141022105229"
+		publication="20141022105616"
 		e:scalaVersion="2.10" e:sbtVersion="0.13"
 	>
 		<description>

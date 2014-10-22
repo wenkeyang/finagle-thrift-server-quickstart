@@ -622,7 +622,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#finagle-thrift-server-quickstart-build;0.1-SNAPSHOT [provided][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#finagle-thrift-server-quickstart-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [provided->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.10.4 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@453e1ede[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e69af8d[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4[0m
 [0m[[0mdebug[0m] [0m	typesafe-ivy-releases: revision in cache: org.scala-lang#scala-library;2.10.4[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.10.4 in sbt-chain[0m
@@ -2437,7 +2437,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.5!apply-macro.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 2647ms :: artifacts dl 42ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 1918ms :: artifacts dl 38ms[0m
 [0m[[0mdebug[0m] [0m	report for default#finagle-thrift-server-quickstart-build;0.1-SNAPSHOT compile produced in /home/papillon/playground/activator-templates/finagle-thrift-server-quickstart/project/target/resolution-cache/reports/default-finagle-thrift-server-quickstart-build-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#finagle-thrift-server-quickstart-build;0.1-SNAPSHOT runtime produced in /home/papillon/playground/activator-templates/finagle-thrift-server-quickstart/project/target/resolution-cache/reports/default-finagle-thrift-server-quickstart-build-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#finagle-thrift-server-quickstart-build;0.1-SNAPSHOT test produced in /home/papillon/playground/activator-templates/finagle-thrift-server-quickstart/project/target/resolution-cache/reports/default-finagle-thrift-server-quickstart-build-test.xml[0m
@@ -2451,5 +2451,5 @@
 [0m[[0mdebug[0m] [0m	report for default#finagle-thrift-server-quickstart-build;0.1-SNAPSHOT docs produced in /home/papillon/playground/activator-templates/finagle-thrift-server-quickstart/project/target/resolution-cache/reports/default-finagle-thrift-server-quickstart-build-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#finagle-thrift-server-quickstart-build;0.1-SNAPSHOT pom produced in /home/papillon/playground/activator-templates/finagle-thrift-server-quickstart/project/target/resolution-cache/reports/default-finagle-thrift-server-quickstart-build-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#finagle-thrift-server-quickstart-build;0.1-SNAPSHOT scala-tool produced in /home/papillon/playground/activator-templates/finagle-thrift-server-quickstart/project/target/resolution-cache/reports/default-finagle-thrift-server-quickstart-build-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (2647ms resolve - 42ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (1918ms resolve - 38ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
