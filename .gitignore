@@ -11,6 +11,7 @@ logs
 precompiled
 project/project
 project/target
+project/target/
 target
 tmp
 activator-*.sbt
