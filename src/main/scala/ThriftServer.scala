@@ -13,8 +13,9 @@ import com.twitter.finagle.builder.{ ServerBuilder, Server }
 object ThriftServer {
 
   def main(args: Array[String]) {
-    val server = Thrift.serveIface("localhost:8081", new Hello[Future] {
+    val server = Thrift.server.serveIface("0.0.0.0:8081", new Hello[Future] {
       def hi() = {
+        println("called hi")
         Future("hi")
       }
     })
