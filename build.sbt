@@ -10,7 +10,7 @@ resolvers ++= Seq(
   "twttr" at "http://maven.twttr.com/"
 )
 
-val finagleVersion = "6.36.0"
+val finagleVersion = "6.39.0"
 
 libraryDependencies ++= Seq(
   "com.twitter" %% "finagle-core" % finagleVersion,
